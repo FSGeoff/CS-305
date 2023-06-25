@@ -22,6 +22,7 @@
 
 - Conduct a vulnerability assessment to identify weaknesses and vulnerabilities in the software.
 - Use threat modeling techniques to analyze and understand potential threats and attack vectors that could target the software.
-- Perform a risk assessment to evaluate different security risks' potential impact and likelihood.
+- Perform a risk assessment to evaluate security risks' potential impact and likelihood.
 - Follow established secure coding standards and best practices such as OWASP (Open Web Application Security Project) guidelines, SANS (SysAdmin, Audit, Network, Security) recommendations, or CERT (Computer Emergency Response Team) secure coding practices
 
+### To ensure the code and software application was functional and secure, I Implemented a secure development lifecycle that incorporates security at every phase of the software development process. This includes requirements analysis, design, coding, testing, and maintenance. Integrating security into each step ensures that security is considered throughout the software's lifecycle
