@@ -16,7 +16,7 @@
 - __Cost savings__: While investing in software security may require upfront resources, it can save a company from significant financial losses in the long run.
 
 
-### Most of my challenges were setting up the pom.xml dependencies.
+#### Most of my challenges were setting up the pom.xml dependencies.
 
 ## To assess vulnerabilities and decide which mitigation techniques to use, I would:
 
@@ -25,4 +25,12 @@
 - Perform a risk assessment to evaluate security risks' potential impact and likelihood.
 - Follow established secure coding standards and best practices such as OWASP (Open Web Application Security Project) guidelines, SANS (SysAdmin, Audit, Network, Security) recommendations, or CERT (Computer Emergency Response Team) secure coding practices
 
-### To ensure the code and software application was functional and secure, I Implemented a secure development lifecycle that incorporates security at every phase of the software development process. This includes requirements analysis, design, coding, testing, and maintenance. Integrating security into each step ensures that security is considered throughout the software's lifecycle
+#### To ensure the code and software application was functional and secure, I Implemented a secure development lifecycle that incorporates security at every phase of the software development process. This includes requirements analysis, design, coding, testing, and maintenance. Integrating security into each step ensures that security is considered throughout the software's lifecycle.
+
+#### I checked whether new vulnerabilities were introduced by regression testing and testing the known vulnerabilities. I found the SDLC lifecycle documentation helpful and will use it moving forward.
+
+#### I would show employers my refactored code as an example of a successfully completed project.
+
+
+
+
